@@ -3,7 +3,7 @@
  <img width=200px height=200px src="https://deno.land/logo.svg" alt="Project logo"></a>
 </p>
 
-<h3 align="center">Deno RESTful API en Memoria con el Framework Oak</h3>
+<h3 align="center">Deno RESTful API con MongoDB Atlas Framework Oak y Despliegue en Heroku</h3>
 
 <div align="center">
 </div>
@@ -19,7 +19,7 @@
 
 ## 🧐 About <a name = "about"></a>
 
-Este codigo es parte del curso RESTful API en Memoria con Deno y Oak Framework publicado en Udemy.com. El curso es gratuito.
+Este codigo es parte del curso RESTful API con Deno MongoDB Atlas, Oak Framework y Despliegue en Heroku publicado en Udemy.com. El curso es gratuito.
 
 https://www.udemy.com/course/restful-api-en-memoria-con-deno-y-oak/
 
